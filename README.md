@@ -21,7 +21,7 @@
 </p>
 
 > 这是光谱Spec 为 iPhone Duo 做的三个「最没用、但非常适合 iPhone Duo」的 App 之一，另外两个是
-> [摸鱼浏览器](https://github.com/__OWNER__/GuangpuSpec-DecoyScreen) 和 [工位指示牌](https://github.com/__OWNER__/GuangpuSpec-DeskSign)。
+> [摸鱼浏览器](https://github.com/Xenogeneic112/GuangpuSpec-DecoyScreen) 和 [工位指示牌](https://github.com/Xenogeneic112/GuangpuSpec-DeskSign)。
 
 ## 玩法
 
@@ -71,7 +71,7 @@
 ## 开始使用
 
 ```bash
-git clone https://github.com/__OWNER__/GuangpuSpec-FoldSmash.git
+git clone https://github.com/Xenogeneic112/GuangpuSpec-FoldSmash.git
 cd GuangpuSpec-FoldSmash
 open CockroachSmasher.xcodeproj
 ```
