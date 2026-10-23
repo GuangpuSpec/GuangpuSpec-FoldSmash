@@ -1,0 +1,1152 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "%@ eaten!": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "「%@」被吃掉了！"
+          }
+        }
+      }
+    },
+    "%lld": {},
+    "%lld maps": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld 张地图"
+          }
+        }
+      }
+    },
+    "%lld pts": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld 分"
+          }
+        }
+      }
+    },
+    "A roach is loose outside the app.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "有只蟑螂跑出 App 了。"
+          }
+        }
+      }
+    },
+    "Add up to four Roach Hole widgets (Hole 1–4). It scurries between them.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在主屏幕添加最多四个「小强洞」小组件（1–4 号洞），它会在洞之间乱窜。"
+          }
+        }
+      }
+    },
+    "Apps eaten": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "被吃掉的 App"
+          }
+        }
+      }
+    },
+    "Apps saved %lld of %lld · +%lld": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "保住 %lld / %lld 个 App · +%lld"
+          }
+        }
+      }
+    },
+    "BIN-SLAM ×%lld!": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "垃圾桶暴击 ×%lld！"
+          }
+        }
+      }
+    },
+    "Best %lld": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最高 %lld"
+          }
+        }
+      }
+    },
+    "Best combo": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最高连击"
+          }
+        }
+      }
+    },
+    "Best scores": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最高分"
+          }
+        }
+      }
+    },
+    "Best · %@": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最高分 · %@"
+          }
+        }
+      }
+    },
+    "Biggest slam": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最强一拍"
+          }
+        }
+      }
+    },
+    "COMBO ×%lld": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "连击 ×%lld"
+          }
+        }
+      }
+    },
+    "COMBO ×%lld!": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "连击 ×%lld！"
+          }
+        }
+      }
+    },
+    "Call It Back": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "收回小强"
+          }
+        }
+      }
+    },
+    "Call back": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "召回"
+          }
+        }
+      }
+    },
+    "Change Map": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "换个战场"
+          }
+        }
+      }
+    },
+    "Cleaned": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "清理"
+          }
+        }
+      }
+    },
+    "Cleaned up!": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "清理干净！"
+          }
+        }
+      }
+    },
+    "Close the phone, then open it to trap it.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "合上手机，再打开，把它困住。"
+          }
+        }
+      }
+    },
+    "Closed: a roach shows up outside. Open the phone to trap it, then slam it shut.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "合上手机：小强会爬上外屏。打开手机困住它，再猛地合上！"
+          }
+        }
+      }
+    },
+    "Closet": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "衣柜"
+          }
+        }
+      }
+    },
+    "Combo": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "连击"
+          }
+        }
+      }
+    },
+    "Curled up!": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "缩成球了！"
+          }
+        }
+      }
+    },
+    "Desktop": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "电脑屏幕"
+          }
+        }
+      }
+    },
+    "Done": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "完成"
+          }
+        }
+      }
+    },
+    "Drag trash into the bin!": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "把垃圾拖进垃圾桶！"
+          }
+        }
+      }
+    },
+    "Eaten up!": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "被吃光了！"
+          }
+        }
+      }
+    },
+    "Empty…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "空的……"
+          }
+        }
+      }
+    },
+    "Escaped": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "逃跑"
+          }
+        }
+      }
+    },
+    "Escaped!": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "跑了！"
+          }
+        }
+      }
+    },
+    "Floating window preview": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "小窗预览"
+          }
+        }
+      }
+    },
+    "Fold Smash": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "广东模拟器"
+          }
+        }
+      }
+    },
+    "Food lost": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "被吃光"
+          }
+        }
+      }
+    },
+    "Fridge": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "冰箱"
+          }
+        }
+      }
+    },
+    "Gentle pat ×1": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "温柔一拍 ×1"
+          }
+        }
+      }
+    },
+    "Go to the Home Screen: it crawls in a floating window. Its pause button swats.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "回到主屏幕：它会在画中画小窗里爬，小窗的暂停键就是拍它。"
+          }
+        }
+      }
+    },
+    "Hits left %lld": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "还要 %lld 下"
+          }
+        }
+      }
+    },
+    "Hole": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "洞"
+          }
+        }
+      }
+    },
+    "Home Screen": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "主屏幕"
+          }
+        }
+      }
+    },
+    "Home Screen map: bugs eat your app icons. Swat them before they take over.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "主屏幕地图：虫子会啃你的 App 图标，在它们占领之前拍死它们。"
+          }
+        }
+      }
+    },
+    "How to play": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "玩法"
+          }
+        }
+      }
+    },
+    "If it escapes to the outer screen, tap Go squash, then open and snap the phone shut.": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "它要是逃到外屏，点「去拍」，再打开手机、猛地合上。"
+          }
+        }
+      }
+    },
+    "In a round": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "对局中"
+          }
+        }
+      }
+    },
+    "It hides in the Dynamic Island and pokes its antennae out when you least expect it. Long-press the island to swat it. Shake the phone to scare it back in.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "它躲在灵动岛里，会在你意想不到的时候探出触角。长按灵动岛拍它，摇一摇手机能把它吓回去。"
+          }
+        }
+      }
+    },
+    "It's in here!": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "它就在这里！"
+          }
+        }
+      }
+    },
+    "It's in the crease. Slam it shut!": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "它钻进折缝了，快合上！"
+          }
+        }
+      }
+    },
+    "Jade Beetle": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "翠甲虫"
+          }
+        }
+      }
+    },
+    "Kitchen": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "厨房"
+          }
+        }
+      }
+    },
+    "Let It Loose": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "放生小强"
+          }
+        }
+      }
+    },
+    "Lid crushed %lld!": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "盖子拍死 %lld 只！"
+          }
+        }
+      }
+    },
+    "Live Activities are off for this app in Settings, so the island roach can't appear.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "设置里关闭了这个 App 的实时活动，灵动岛小强出不来。"
+          }
+        }
+      }
+    },
+    "Loose": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在外面"
+          }
+        }
+      }
+    },
+    "Mega slam ×3": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "暴力一拍 ×3"
+          }
+        }
+      }
+    },
+    "New best!": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "新纪录！"
+          }
+        }
+      }
+    },
+    "Next": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下一张"
+          }
+        }
+      }
+    },
+    "Nice slam ×2": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "漂亮一拍 ×2"
+          }
+        }
+      }
+    },
+    "Nice snap ×2": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "利落合拢 ×2"
+          }
+        }
+      }
+    },
+    "Nothing inside.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "里面一只都没有。"
+          }
+        }
+      }
+    },
+    "Office Desk": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "办公桌"
+          }
+        }
+      }
+    },
+    "Only %lld apps left. Swat faster!": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "只剩 %lld 个 App，快拍！"
+          }
+        }
+      }
+    },
+    "Open: tap roaches to squash them.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打开手机：点小强把它拍扁。"
+          }
+        }
+      }
+    },
+    "Overrun!": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "失守了！"
+          }
+        }
+      }
+    },
+    "Pause": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "暂停"
+          }
+        }
+      }
+    },
+    "Paused": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已暂停"
+          }
+        }
+      }
+    },
+    "Perfect snap ×3": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "完美合拢 ×3"
+          }
+        }
+      }
+    },
+    "Pick a hideout": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选个战场"
+          }
+        }
+      }
+    },
+    "Play": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "游戏"
+          }
+        }
+      }
+    },
+    "Play Again": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "再来一局"
+          }
+        }
+      }
+    },
+    "Pop Out Now": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "现在弹出小窗"
+          }
+        }
+      }
+    },
+    "Previous": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "上一张"
+          }
+        }
+      }
+    },
+    "Purple Overlord": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "紫纹霸王"
+          }
+        }
+      }
+    },
+    "Quit": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "退出"
+          }
+        }
+      }
+    },
+    "Quit to Menu": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "退出到菜单"
+          }
+        }
+      }
+    },
+    "Records": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "战绩"
+          }
+        }
+      }
+    },
+    "Red Runner": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "红背飞毛腿"
+          }
+        }
+      }
+    },
+    "Release": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "放生"
+          }
+        }
+      }
+    },
+    "Release a roach into your iPhone. It lives outside this app.": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "把一只小强放进你的 iPhone，它会住在这个 App 外面。"
+          }
+        }
+      }
+    },
+    "Release the Roach": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "放出小强"
+          }
+        }
+      }
+    },
+    "Restart": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重新开始"
+          }
+        }
+      }
+    },
+    "Resume": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "继续"
+          }
+        }
+      }
+    },
+    "Roach": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "小强"
+          }
+        }
+      }
+    },
+    "Roach Guide": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "蟑螂图鉴"
+          }
+        }
+      }
+    },
+    "Roaches crawl into the smelly bin. Tap its lid to crush them.": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "小强会钻进臭烘烘的垃圾桶，点盖子拍扁它们。"
+          }
+        }
+      }
+    },
+    "SCORE": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "得分"
+          }
+        }
+      }
+    },
+    "SPLAT!": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "啪！！"
+          }
+        }
+      }
+    },
+    "Score": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "分数"
+          }
+        }
+      }
+    },
+    "Slam it shut!": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "快合上！"
+          }
+        }
+      }
+    },
+    "Slamming the phone shut squashes every roach inside at once.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "合上手机能一次拍死里面所有的小强。"
+          }
+        }
+      }
+    },
+    "Slow close ×1": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "慢慢合上 ×1"
+          }
+        }
+      }
+    },
+    "Squashed": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "拍死"
+          }
+        }
+      }
+    },
+    "Squashed %lld": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "拍死 %lld 只"
+          }
+        }
+      }
+    },
+    "Start": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "开始灭蟑"
+          }
+        }
+      }
+    },
+    "Stripy Pillbug": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "蓝纹球潮虫"
+          }
+        }
+      }
+    },
+    "Swat": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "拍"
+          }
+        }
+      }
+    },
+    "Swat the roach": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "拍小强"
+          }
+        }
+      }
+    },
+    "TIME LEFT": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "剩余时间"
+          }
+        }
+      }
+    },
+    "Tap the bin lid to crush them!": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "点垃圾桶盖子，拍扁它们！"
+          }
+        }
+      }
+    },
+    "The roach is in its box.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "蟑螂在盒子里。"
+          }
+        }
+      }
+    },
+    "They're eating your apps! Swat them!": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "它们在啃你的 App！快拍！"
+          }
+        }
+      }
+    },
+    "Time": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "时间"
+          }
+        }
+      }
+    },
+    "Time's up!": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "时间到！"
+          }
+        }
+      }
+    },
+    "Too fast!": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "太快了！"
+          }
+        }
+      }
+    },
+    "Too fast! Open the phone to trap it!": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "太快了！打开手机困住它！"
+          }
+        }
+      }
+    },
+    "Toss Trash": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "丢垃圾"
+          }
+        }
+      }
+    },
+    "Trapped!": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "困住了！"
+          }
+        }
+      }
+    },
+    "Trash attracts roaches. Lure them together, then slam!": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "垃圾会引来小强，把它们引到一起再一拍！"
+          }
+        }
+      }
+    },
+    "Trash breeds roaches. Drag scraps into the bin to clean up.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "垃圾会生小强。把垃圾拖进垃圾桶清理掉。"
+          }
+        }
+      }
+    },
+    "Where it goes": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "它会去哪儿"
+          }
+        }
+      }
+    },
+    "Whiff!": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "空拍！"
+          }
+        }
+      }
+    },
+    "Your Home Screen was taken over!": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "你的主屏幕被占领了！"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

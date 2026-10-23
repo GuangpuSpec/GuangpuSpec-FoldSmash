@@ -1,0 +1,243 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "…" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "……"
+          }
+        }
+      }
+    },
+    "A crack in your Home Screen. Add up to four and number them 1–4." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主屏幕上的一条裂缝。最多加四个，编号 1–4。"
+          }
+        }
+      }
+    },
+    "A roach is peeking out…" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "有只小强在探头……"
+          }
+        }
+      }
+    },
+    "Go squash" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "去拍"
+          }
+        }
+      }
+    },
+    "Hole" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "洞"
+          }
+        }
+      }
+    },
+    "Hole number" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "洞的编号"
+          }
+        }
+      }
+    },
+    "It escaped to the outer screen!" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "它逃到外屏了！"
+          }
+        }
+      }
+    },
+    "It hid. Somewhere." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "它躲起来了……"
+          }
+        }
+      }
+    },
+    "It's running around!" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "它在乱爬！"
+          }
+        }
+      }
+    },
+    "Jade Beetle" : {
+
+    },
+    "outside!" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在外屏"
+          }
+        }
+      }
+    },
+    "peek" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "探头"
+          }
+        }
+      }
+    },
+    "Purple Overlord" : {
+
+    },
+    "Red Runner" : {
+
+    },
+    "Roach" : {
+
+    },
+    "Roach Hole" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "小强洞"
+          }
+        }
+      }
+    },
+    "run!" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "快跑"
+          }
+        }
+      }
+    },
+    "splat" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "拍扁"
+          }
+        }
+      }
+    },
+    "SPLAT!" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "啪！！"
+          }
+        }
+      }
+    },
+    "Squashed" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "拍死"
+          }
+        }
+      }
+    },
+    "Squashed %lld" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "拍死 %lld 只"
+          }
+        }
+      }
+    },
+    "Squashed!" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "拍死了！"
+          }
+        }
+      }
+    },
+    "Stripy Pillbug" : {
+
+    },
+    "Swat" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "拍"
+          }
+        }
+      }
+    },
+    "Swat it!" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "拍它！"
+          }
+        }
+      }
+    },
+    "Swat the roach" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "拍小强"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

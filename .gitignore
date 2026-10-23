@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Xcode — per-user state and build products
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# Signing material never belongs in the repo
+*.mobileprovision
+*.p12
+*.cer
